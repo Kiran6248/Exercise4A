@@ -1,4 +1,4 @@
-# Exercise4A
+# Pizza Delivery App
 ## Pizza delivery app using C#
 
 ### Project requirement
